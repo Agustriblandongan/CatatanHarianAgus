@@ -1,3 +1,4 @@
+Agus Tri Haryanto / 211011401188
 Penjelasan Tentang Aplikasi
 1.	Deskripsi Aplikasi 
 Aplikasi CatatanHarianAgus ini digunakan untuk membuat, melihat, mengedit, dan menghapus catatan harian berupa momen penting, ide, dan tugas.
